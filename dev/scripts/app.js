@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {ajax} from 'jquery';
 import { 
     BrowserRouter as Router, 
     Route, Link } from 'react-router-dom';
